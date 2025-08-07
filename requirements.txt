@@ -1,0 +1,4 @@
+cffi==1.17.1
+cryptography==45.0.6
+psycopg2==2.9.10
+pycparser==2.22
